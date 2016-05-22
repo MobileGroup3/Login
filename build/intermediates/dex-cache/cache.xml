@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zini/.gradle/caches/modules-2/files-2.1/com.backendless/android/1.0/f91280cadacfb073c2072c6310da0ea77a3cdcb4/android-1.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f91280cadacfb073c2072c6310da0ea77a3cdcb4">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/android-1.0_9a828e33cfd3ac35cbd5c8fe676131fd87a083d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_0e03ab3ed3c2acf5f343b3ed0908bb8ab238bf08/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_6d839956224e443d93adc7e979de3fe4eaac3cef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_bf299ebedd7562ad05916ac813e57adc2aa0dab6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_6b6612f8f2ae29c9a8042e8078f01452ddddb52b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="60cf47f737e21bd526f8573a0fd868ab08d5e99c">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_b0a36fed00a0c7e678616c9c38af5e16b594748b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1558f98ab3c5b31ea83854b3c61b29d6f083a89b">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d7198d6971ed5d781646148e7ab0cb08d5329c4f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_afae98d24c446fe7f985c2c949a243016d40b07b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/zini/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/zini/Desktop/HK3-Codegen/HK3-Login/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_9704c633d0ae03d393bb8421d89984dfbd0b6848/classes.dex" />
+    </item>
+
+</items>
